@@ -1,0 +1,64 @@
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Hello.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Information_User.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_finan.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Match.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Inser_Finance.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Manager.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Properties.Resources.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.GenerateResource.cache
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.CoreCompileInputs.cache
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csprojAssemblyReference.cache
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Play.resources
+H:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe.config
+H:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe
+H:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.pdb
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.exe
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.pdb
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Coa.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Message.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.ShowMess.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.CreateAccount.resources
+H:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.ResolveComReference.cache
+H:\FPTU\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe.config
+H:\FPTU\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe
+H:\FPTU\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.pdb
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csprojAssemblyReference.cache
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.ResolveComReference.cache
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.CreateAccount.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Demo.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Coa.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Play.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Hello.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Information_User.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_finan.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Match.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Inser_Finance.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Manager.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Message.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Properties.Resources.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.ShowMess.resources
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.GenerateResource.cache
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.CoreCompileInputs.cache
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.exe
+H:\FPTU\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.pdb
+D:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe.config
+D:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.exe
+D:\Project Football Manager\Project Football Manager\bin\Debug\Project Football Manager.pdb
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csprojAssemblyReference.cache
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.ResolveComReference.cache
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.CreateAccount.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Coa.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Play.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Hello.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Information_User.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_finan.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Infor_Match.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Inser_Finance.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Manager.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Message.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.Properties.Resources.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project_Football_Manager.ShowMess.resources
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.GenerateResource.cache
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.csproj.CoreCompileInputs.cache
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.exe
+D:\Project Football Manager\Project Football Manager\obj\Debug\Project Football Manager.pdb
